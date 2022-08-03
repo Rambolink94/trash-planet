@@ -5,6 +5,7 @@ At the moment, you can interact with trash heaps to git scrap as well as break o
 You can also build basic structures.
 
 [Download the latest build](https://rambolink94.itch.io/trash-planet)
+
 [Reddit post and video](https://www.reddit.com/r/Unity3D/comments/ukbqty/an_early_prototype_of_my_fps_survival_game_trash/)
 
 ### Controls ###
